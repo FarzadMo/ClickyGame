@@ -1,0 +1,82 @@
+[{
+    "id":1,
+    "src": "../../clickgame/public/lionking/1.png",
+   "clicked" :"false"
+   },{
+   
+       "id":2,
+       "src": "../../clickgame/public/lionking/2.png",
+       "clicked" :"false"
+   
+   },
+   {
+   
+       "id":3,
+       "src": "../../clickgame/public/lionking/3.png",
+       "clicked" :"false"
+   
+   },
+   {
+   
+       "id":4,
+       "src": "../../clickgame/public/lionking/4.png",
+       "clicked" :"false"
+   
+   },
+   {
+   
+       "id":5,
+       "src": "../../clickgame/public/lionking/5.png",
+       "clicked" :"false"
+   
+   },
+   {
+   
+       "id":6,
+       "src": "../../clickgame/public/lionking/6.png",
+       "clicked" :"false"
+   
+   },
+   {
+   
+       "id":7,
+       "src": "../../clickgame/public/lionking/7.png",
+       "clicked" :"false"
+   
+   },
+   {
+   
+       "id":8,
+       "src": "../../clickgame/public/lionking/8.png",
+       "clicked" :"false"
+   
+   },
+   {
+   
+       "id":9,
+       "src": "../../clickgame/public/lionking/9.png",
+       "clicked" :"false"
+   
+   },
+   {
+   
+       "id":10,
+       "src": "../../clickgame/public/lionking/10.png",
+       "clicked" :"false"
+   
+   },
+   {
+   
+       "id":11,
+       "src": "../../clickgame/public/lionking/11.png",
+       "clicked" :"false"
+   
+   },
+   {
+   
+       "id":12,
+       "src": "../../clickgame/public/lionking/12.png",
+       "clicked" :"false"
+   
+   }
+   ]
