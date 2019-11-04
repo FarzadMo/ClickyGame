@@ -15,7 +15,7 @@ This clicky game is designed to practice React.
 2.	Run the App using npm Start from the main directory.
 
 
-![image](https://user-images.githubusercontent.com/50332749/68160446-db507e80-ff21-11e9-85bd-d2fba308d48f.png)
+![image](https://user-images.githubusercontent.com/50332749/68164372-a4329b00-ff2a-11e9-8d81-d09822fe2204.png)
 
 
 
